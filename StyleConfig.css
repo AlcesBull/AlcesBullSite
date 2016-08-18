@@ -5,3 +5,9 @@
 .site-title img {
     max-height:60px;
 }
+
+.title-desc-inner {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+
